@@ -28,4 +28,5 @@ margin-top: 10%;
 .box:hover{
     background-color: rgb(129, 57, 57);
 transform: translateY(-15px);
+border-radius: 30px;
 }
